@@ -24,7 +24,7 @@ Ensure you have the following installed on your system:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/FrancescoXX/fullstack-next-node-postgres.git
+   git clone https://github.com/Subh-Kami/Full-Stack-Web-App.git
    cd fullstack-next-node-postgres
    ```
 
